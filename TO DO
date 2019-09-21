@@ -1,0 +1,22 @@
+TO DO:
+
+*IMPROVE DATA EFFICIENCY: Current way of accessing data is constantly reading/writing from a txt file. Instead I would like to retrive the 
+data upon application start and store it in a arraylist. All data can then be updated and read form they arraylist. Auto update txt file data
+every 5 minuets to just incase of an unexpected system failure.
+
+*Update cade to add more scalability and flexablity.
+
+*Improve documentation.
+
+*Add data validation to all textfields.
+
+*Improve UI design and experience.
+
+*Put the data on a server so data can be accessed remotely giving the product mobility and scalablity.
+
+*Impliment the analytics interface that can give insight into (Customers, monthly profits, what product makes the most profit ect.).
+
+*Encrypt the data / make the over all system more secure.
+
+*Impliment Twillow API to send customers specific prices based on the products they most commonly bring in and at what time.
+
